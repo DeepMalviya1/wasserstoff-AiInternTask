@@ -68,6 +68,8 @@ Ensure that all required directories (data/input_images, data/segmented_objects,
 
 If you encounter issues with package versions or compatibility, adjust the versions in requirements.txt accordingly.
 
+You can test the project using the sample images provided in the Sample Images folder. Additionally, refer to the PPT for a more detailed understanding of the project.
+
 ## UI Snapshots
 
 ### 1. Upload Your Image
