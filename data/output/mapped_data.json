@@ -1,0 +1,12 @@
+{
+    "object_0.png": {
+        "object_id": "object_0",
+        "description": "Object in object_0.png",
+        "text": ""
+    },
+    "segmented_image.png": {
+        "object_id": "segmented_image",
+        "description": "Object in segmented_image.png",
+        "text": ""
+    }
+}

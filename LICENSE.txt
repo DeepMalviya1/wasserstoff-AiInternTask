@@ -1,0 +1,126 @@
+This file is part of AI Pipeline for Image Segmentation and Object Analysis by Deep Malviya.
+#
+# AI Pipeline for Image Segmentation and Object Analysis by Deep Malviya is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# AI Pipeline for Image Segmentation and Object Analysis by Deep Malviya is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with AI Pipeline for Image Segmentation and Object Analysis by Deep Malviya  If not, see <https://www.gnu.org/licenses/>.
+
+
+
+
+# GNU General Public License v3.0
+
+## Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>  
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+### Preamble
+
+The GNU General Public License is a free, copyleft license for software and other kinds of works. 
+
+The licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program—to make sure it remains free software for all its users.
+
+When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.
+
+To protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights. Therefore, you have to accept the same responsibilities when you distribute copies of the software or modify it. By contrast, if you distribute copies of the modified software, you must pass on the same freedoms to the recipients of the modified software. You must make sure that everyone else also receives or can get the source code. And you must show them these terms so they know their rights.
+
+We protect your rights with two steps: (1) copyright the software, and (2) offer you this license which gives you legal permission to copy, distribute, and/or modify the software.
+
+### TERMS AND CONDITIONS
+
+#### 0. Definitions
+
+This License incorporates the following definitions:
+
+**“License”** refers to this document.
+
+**“Copyright”** also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
+
+**“The Program”** refers to any copyrightable work licensed under this License. Each licensee is addressed as “you”.
+
+**“Source Code”** refers to the preferred form of the Program for making modifications to it. 
+
+**“Object Code”** refers to any non-source form of a work.
+
+**“Work”** means the work of authorship, whether copyrighted or not, which is licensed under this License.
+
+**“The Free Software Foundation”** is the organization that maintains this License.
+
+**“GNU”** refers to the Free Software Foundation’s software licensing principles.
+
+**“GPL”** stands for the GNU General Public License.
+
+**“Lesser GPL”** refers to the GNU Lesser General Public License.
+
+**“System Libraries”** means those parts of the Program which are required to be used in conjunction with the Program to make it function.
+
+#### 1. Source Code
+
+The source code for a work means the preferred form of the work for making modifications to it.
+
+#### 2. Basic Permissions
+
+You may copy, modify, or distribute the Program under the terms of this License.
+
+#### 3. Copyleft
+
+You must distribute copies of the Program’s source code and its modifications under the terms of this License.
+
+#### 4. Conveying Modified Source Versions
+
+You must release the source code of modified versions under the same License.
+
+#### 5. Conveying Non-Source Forms
+
+If you distribute copies of the Program or derivative works in a form other than source code, you must also make the source code available.
+
+#### 6. Remote Network Interaction
+
+If you run the Program on a network, you must ensure that the source code is available to users interacting with it.
+
+#### 7. License Compatibility
+
+This License permits you to combine the Program with other works, provided the combined work remains under this License.
+
+#### 8. Termination
+
+This License terminates if you fail to comply with its terms.
+
+#### 9. Acceptance Not Required
+
+You are not required to accept this License, but you cannot distribute the Program or derivative works without complying with it.
+
+#### 10. No Warranty
+
+The Program is provided “as is” without any warranties.
+
+#### 11. Limitation of Liability
+
+In no event will the authors be liable for any damages arising from the use of the Program.
+
+#### 12. Use with Other Licenses
+
+You may include the Program with other licenses, but those licenses must be compatible with this License.
+
+#### 13. Final Clauses
+
+If any provision of this License is invalid, the remaining provisions remain in effect.
+
+### END OF TERMS AND CONDITIONS
+
+How to Apply These Terms to Your New Programs:
+
+If you develop a new program and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.
+
+The source code for a program means the preferred form of the program for making modifications. If you want to make your program available to others, the best way to do this is to include the source code. 
+
+For more details, visit: [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)
