@@ -1,6 +1,6 @@
 import os
 import json
-
+#
 def summarize_attributes(input_folder):
     summary = {}
     extracted_text_path = "data/output/extracted_text.txt"

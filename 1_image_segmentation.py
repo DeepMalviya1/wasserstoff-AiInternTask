@@ -5,7 +5,7 @@ from torchvision.models.segmentation import deeplabv3_resnet101
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-
+#
 def segment_image(image_path, output_path):
     model = deeplabv3_resnet101(pretrained=True)
     model.eval()

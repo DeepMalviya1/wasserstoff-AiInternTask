@@ -1,7 +1,7 @@
 import pytesseract
 from PIL import Image
 import os
-
+#
 def extract_text(input_folder):
     output_file = "data/output/extracted_text.txt"
     os.makedirs(os.path.dirname(output_file), exist_ok=True)

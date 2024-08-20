@@ -3,7 +3,7 @@ import subprocess
 import os
 import json
 
-# Title of the Streamlit app
+# Title of the Streamlit app 
 st.title("AI Pipeline for Image Segmentation and Object Analysis ")
 
 # Create necessary directories if they don't exist
@@ -11,7 +11,7 @@ os.makedirs("data/input_images", exist_ok=True)
 os.makedirs("data/segmented_objects", exist_ok=True)
 os.makedirs("data/output", exist_ok=True)
 
-# Image upload section
+# Image upload section here
 st.header("1. Upload Your Image")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png"])
 

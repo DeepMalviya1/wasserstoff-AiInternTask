@@ -2,7 +2,7 @@ import os
 import torch
 from torchvision import transforms
 from PIL import Image
-
+#
 # Load the YOLOv5 model
 model = torch.hub.load('ultralytics/yolov5', 'yolov5s')
 

@@ -4,7 +4,7 @@ import os
 def extract_objects(segmented_image_path, output_folder):
     if not os.path.isfile(segmented_image_path):
         raise FileNotFoundError(f"Segmented image not found: {segmented_image_path}")
-
+#
     # Load the segmented image
     segmented_image = cv2.imread(segmented_image_path, cv2.IMREAD_GRAYSCALE)
     if segmented_image is None:
