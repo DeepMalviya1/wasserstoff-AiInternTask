@@ -50,6 +50,9 @@ To run this project, install the necessary Python packages. Use the following `r
 1. **Run the Streamlit App:**:
    ```bash
    streamlit run app.py
+
+## Video Link
+https://drive.google.com/file/d/1JFQJkvEwtRGerBUmDj3Nbf-wQwvr3eqe/view?usp=sharing
    `
 ## Usage
 **1. Upload Your Image: Use the file uploader in the Streamlit app to upload an image.**
